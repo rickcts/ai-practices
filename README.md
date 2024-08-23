@@ -2,8 +2,6 @@
 
 This is a set of practice to familiarize myself with the LangChain ecosystem, gain insight into its capabilities, and prepare for real-world use down the line.
 
-Certainly! Here's a suggestion to complete the "Getting Started" section for your README:
-
 ## Getting Started
 
 To follow along with the scripts, you can follow the following steps:
@@ -23,7 +21,7 @@ Before you begin, ensure that you have the following installed:
    Clone this repository to your local machine:
 
    ```bash
-   git clone https://github.com/yourusername/your-repository.git
+   git clone https://github.com/rickcts/ai-practices
    cd your-repository
    ```
 
@@ -66,4 +64,4 @@ export OPENAI_API_KEY="your-api-key-here"
 
 ### Additional Resources
 
-For more information on LangChain, check out the [official documentation](https://langchain.com/docs) or join the community forums.
+For more information on LangChain, check out the [official documentation](https://langchain.com/docs).
